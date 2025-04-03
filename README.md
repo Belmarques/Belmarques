@@ -17,7 +17,11 @@
 <img src= "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFBalt" alt = "React" />
 <img src= "https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" alt = "Node" />
 <img src= "https://img.shields.io/badge/Fastify-000000?style=for-the-badge&logo=fastify&logoColor=white" alt = "Fastify" />
-<img src= "https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat" alt = "Express" />
+<img src= "https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt = "Express" />
+<img src= "https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" alt = "PostgresSql" />
+<img src= "https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" alt = "Docker" />
+<img src= "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" alt = "Prisma" />
+
 
 
 
